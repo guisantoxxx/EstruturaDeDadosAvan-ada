@@ -12,7 +12,7 @@ Você foi escalado para minimizar os custos de empacotamento (garrafa e embalage
 
 Encontre, para cada tamanho de garrafa fornecida:
 
-1 - a maior poção mágica possível de se armazenar na garrafa; e,
+1 - a maior poção mágica possível de se armazenar na garrafa; e,<br>
 2 - a menor embalagem possível de se armazenar a garrafa.
 
 A implementação que você irá alterar utiliza uma árvore AVL para armazenar as poções e as embalagens.
