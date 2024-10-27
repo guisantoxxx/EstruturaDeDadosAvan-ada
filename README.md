@@ -6,4 +6,4 @@ Este repositório contém uma coleção de exercícios sobre Árvores Binárias,
 
 Cada exercício está organizado em uma pasta individual, contendo:
 - **Descrição** do problema (arquivo `descricao.md`)
-- **Código de solução** (arquivo `solucao.py`)
+- **Código de solução** (arquivo `solucao.c`)
